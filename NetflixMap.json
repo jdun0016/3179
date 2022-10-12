@@ -38,7 +38,7 @@
           "field": "CostPerMonthStandard",
           "type": "quantitative",
           "title": "Cost in USD",
-          "scale": {"type": "threshold", "domain": [10.5, 14, 17.5]}
+          "scale": {"type": "threshold", "domain": [8, 10, 12, 14, 16, 18]}
         },
         "tooltip": [
           {"field": "properties.NAME", "type": "nominal", "title": "Country"},
